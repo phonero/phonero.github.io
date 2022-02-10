@@ -1,0 +1,23 @@
+{
+  "protocols": [
+    "5.0"
+  ],
+  "os": "darwin",
+  "arch": "amd64",
+  "filename": "terraform-provider-graylog_1.1.0_darwin_amd64.zip",
+  "download_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.0/terraform-provider-graylog_1.1.0_darwin_amd64.zip",
+  "shasums_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.0/terraform-provider-graylog_1.1.0_SHA256SUMS",
+  "shasums_signature_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.0/terraform-provider-graylog_1.1.0_SHA256SUMS.sig",
+  "shasum": "862e9d14beb6290c15bd2623368a8b6a66e31a5d4af4c9c56caf34b8ae1e7dd6",
+  "signing_keys": {
+    "gpg_public_keys": [
+      {
+        "key_id": "D1802C33DAF2E0FBDBAE92D97EFFBB5ECD101A9B",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmDMEYgU9VhYJKwYBBAHaRw8BAQdA1CCW7nndIN/J73pqRrfnZLkOUxmmLWtpKGor\nFr79zGK0IVDDpWwgU29sbGllIDxwYWwuc29sbGllQHRlbGlhLm5vPoiaBBMWCgBC\nFiEE0YAsM9ry4PvbrpLZfv+7Xs0QGpsFAmIFPVYCGwMFCRLMAwAFCwkIBwIDIgIB\nBhUKCQgLAgQWAgMBAh4HAheAAAoJEH7/u17NEBqbG1QA/2cl7U2C3Bq8tvPcDmlC\nZ9RyUC777DilqfUNjHYrFKY6AP0dlUDZsgUqwjJnp4rwWmiAyD3zyFW4uyrXRTrz\nuLO7DLg4BGIFPVYSCisGAQQBl1UBBQEBB0ACTsuT36oYNOQ5WY7y9LTSf2CrrqKr\nWL4SMrFnlWqUEgMBCAeIfgQYFgoAJhYhBNGALDPa8uD7266S2X7/u17NEBqbBQJi\nBT1WAhsMBQkSzAMAAAoJEH7/u17NEBqbvVYBAKM/eZgLGSblGmO3UTaOxY2IGojK\nTRyLQ2TdmJ5LIIHVAP99l8EUbTv6bn+tJ+7Tyw5XKUyvvbo7ZdXVsrqxlaLSBQ==\n=hsDw\n-----END PGP PUBLIC KEY BLOCK-----\n"
+        "trust_signature": "",
+        "source": "HashiCorp",
+        "source_url": "https://www.hashicorp.com/security.html"
+      }
+    ]
+  }
+}
