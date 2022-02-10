@@ -32,10 +32,10 @@
           "arch": "arm64"
         },
         {
-        {
           "os": "darwin",
           "arch": "arm64"
         },
+        {
           "os": "darwin",
           "arch": "amd64"
         }
