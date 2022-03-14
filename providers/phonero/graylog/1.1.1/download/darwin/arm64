@@ -8,7 +8,7 @@
   "download_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.1/terraform-provider-graylog_1.1.1_darwin_arm64.zip",
   "shasums_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.1/terraform-provider-graylog_1.1.1_SHA256SUMS",
   "shasums_signature_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.1/terraform-provider-graylog_1.1.1_SHA256SUMS.sig",
-  "shasum": "0da80f2e5584168ee1b332e37f477c064ecda41bf1feda84cfefde08987160d6",
+  "shasum": "5004cde586149d1c39846606cea2a826aeb1288d2807dc809ee339ff60da4820",
   "signing_keys": {
     "gpg_public_keys": [
       {
