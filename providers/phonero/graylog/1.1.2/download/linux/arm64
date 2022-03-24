@@ -1,0 +1,29 @@
+{
+  "protocols": [
+    "5.0"
+  ],
+  "os": "linux",
+  "arch": "arm64",
+  "filename": "terraform-provider-graylog_1.1.2_linux_arm64.zip",
+  "download_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.2/terraform-provider-graylog_1.1.2_linux_arm64.zip",
+  "shasums_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.2/terraform-provider-graylog_1.1.2_SHA256SUMS",
+  "shasums_signature_url": "https://github.com/phonero/terraform-provider-graylog/releases/download/v1.1.2/terraform-provider-graylog_1.1.2_SHA256SUMS.sig",
+  "signing_keys": {
+    "gpg_public_keys": [
+      {
+        "key_id": "7EFFBB5ECD101A9B",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\nmDMEYgU9VhYJKwYBBAHaRw8BAQdA1CCW7nndIN/J73pqRrfnZLkOUxmmLWtpKGor\nFr79zGK0IVDDpWwgU29sbGllIDxwYWwuc29sbGllQHRlbGlhLm5vPoiaBBMWCgBC\nFiEE0YAsM9ry4PvbrpLZfv+7Xs0QGpsFAmIFPVYCGwMFCRLMAwAFCwkIBwIDIgIB\nBhUKCQgLAgQWAgMBAh4HAheAAAoJEH7/u17NEBqbG1QA/2cl7U2C3Bq8tvPcDmlC\nZ9RyUC777DilqfUNjHYrFKY6AP0dlUDZsgUqwjJnp4rwWmiAyD3zyFW4uyrXRTrz\nuLO7DLg4BGIFPVYSCisGAQQBl1UBBQEBB0ACTsuT36oYNOQ5WY7y9LTSf2CrrqKr\nWL4SMrFnlWqUEgMBCAeIfgQYFgoAJhYhBNGALDPa8uD7266S2X7/u17NEBqbBQJi\nBT1WAhsMBQkSzAMAAAoJEH7/u17NEBqbvVYBAKM/eZgLGSblGmO3UTaOxY2IGojK\nTRyLQ2TdmJ5LIIHVAP99l8EUbTv6bn+tJ+7Tyw5XKUyvvbo7ZdXVsrqxlaLSBQ==\n=hsDw\n-----END PGP PUBLIC KEY BLOCK-----\n",
+        "trust_signature": "",
+        "source": "HashiCorp",
+        "source_url": "https://www.hashicorp.com/security.html"
+      },
+      {
+        "key_id": "53F5E2E9B7AC5A18",
+        "ascii_armor": "-----BEGIN PGP PUBLIC KEY BLOCK-----\n\n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\ng9ex2UId5PiZeAvu5g==\n=tC/0\n-----END PGP PUBLIC KEY BLOCK-----\n",
+        "trust_signature": "",
+        "source": "HashiCorp",
+        "source_url": "https://www.hashicorp.com/security.html"
+      }
+    ]
+  }
+}
